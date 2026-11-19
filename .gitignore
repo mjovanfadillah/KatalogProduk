@@ -1,0 +1,12 @@
+# Database lokal (dibuat otomatis saat aplikasi dijalankan)
+/data/
+*.db
+*.db-shm
+*.db-wal
+
+# Maven dan IDE
+/target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
