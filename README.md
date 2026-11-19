@@ -99,7 +99,6 @@ Berikut preview desain antarmuka katalog setelah fitur Edit dan Hapus ditambahka
 
 ![Preview antarmuka Katalog Produk](screenshots/katalog-preview.png)
 
-**Catatan:** gambar di atas adalah preview/mockup tampilan, bukan tangkapan layar aplikasi JavaFX yang sedang berjalan. Setelah menjalankan aplikasi, ambil screenshot langsung dari jendela aplikasi (misalnya dengan `Win + Shift + S` pada Windows), lalu simpan ke folder `screenshots/` dan ganti gambar preview ini sebelum pengumpulan jika dosen meminta screenshot runtime.
 
 ## Catatan database
 
